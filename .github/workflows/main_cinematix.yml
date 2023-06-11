@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'CINEMATIX'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8247F931EE1F4491A6FCCE93649A0C28 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0563CC0B3AFF4D108C0C12793E33E6F3 }}
